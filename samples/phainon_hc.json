@@ -1,0 +1,6634 @@
+{
+  "lineup": [
+    {
+      "avatarId": 1408,
+      "isDie": false
+    },
+    {
+      "avatarId": 1101,
+      "isDie": false
+    },
+    {
+      "avatarId": 1309,
+      "isDie": false
+    },
+    {
+      "avatarId": 1303,
+      "isDie": false
+    }
+  ],
+  "turnHistory": [
+    {
+      "avatarId": -1,
+      "actionValue": 0,
+      "waveIndex": 1,
+      "cycleIndex": 30
+    },
+    {
+      "avatarId": 1303,
+      "actionValue": 43.18659485084936,
+      "waveIndex": 1,
+      "cycleIndex": null
+    },
+    {
+      "avatarId": 1309,
+      "actionValue": 52.96610167250037,
+      "waveIndex": 1,
+      "cycleIndex": 30
+    },
+    {
+      "avatarId": 100015,
+      "actionValue": 57.39210283383727,
+      "waveIndex": 1,
+      "cycleIndex": 30
+    },
+    {
+      "avatarId": 100013,
+      "actionValue": 63.13131311675534,
+      "waveIndex": 1,
+      "cycleIndex": 30
+    },
+    {
+      "avatarId": 1101,
+      "actionValue": 69.2175646382384,
+      "waveIndex": 1,
+      "cycleIndex": 30
+    },
+    {
+      "avatarId": 1408,
+      "actionValue": 69.2175646382384,
+      "waveIndex": 1,
+      "cycleIndex": 30
+    },
+    {
+      "avatarId": 1303,
+      "actionValue": 69.2175646382384,
+      "waveIndex": 1,
+      "cycleIndex": 30
+    },
+    {
+      "avatarId": 1408,
+      "actionValue": 69.2175646382384,
+      "waveIndex": 1,
+      "cycleIndex": 30
+    },
+    {
+      "avatarId": 1101,
+      "actionValue": 69.2175646382384,
+      "waveIndex": 1,
+      "cycleIndex": 30
+    },
+    {
+      "avatarId": 1408,
+      "actionValue": 69.2175646382384,
+      "waveIndex": 1,
+      "cycleIndex": 30
+    },
+    {
+      "actionValue": 69.2175646382384,
+      "waveIndex": 1,
+      "cycleIndex": 30
+    },
+    {
+      "actionValue": 88.74957762192935,
+      "waveIndex": 2,
+      "cycleIndex": 30
+    },
+    {
+      "actionValue": 108.281590573024,
+      "waveIndex": 2,
+      "cycleIndex": 30
+    },
+    {
+      "avatarId": 100030,
+      "actionValue": 108.281590573024,
+      "waveIndex": 2,
+      "cycleIndex": 30
+    },
+    {
+      "actionValue": 127.81360355904326,
+      "waveIndex": 2,
+      "cycleIndex": 30
+    },
+    {
+      "actionValue": 147.34561651246622,
+      "waveIndex": 2,
+      "cycleIndex": 30
+    }
+  ],
+  "skillHistory": [
+    {
+      "avatarId": 1408,
+      "damageDetail": [],
+      "totalDamage": 0,
+      "skillType": 0,
+      "skillName": "この{RUBY_B#み}身{RUBY_E#}を{RUBY_B#きょか}炬火{RUBY_E#}とす",
+      "turnBattleId": 0
+    },
+    {
+      "avatarId": 1408,
+      "damageDetail": [],
+      "totalDamage": 0,
+      "skillType": 0,
+      "skillName": "{RUBY_B#うんめい}運命{RUBY_E#}・この{RUBY_B#み}身{RUBY_E#}は{RUBY_B#かみ}神{RUBY_E#}なり",
+      "turnBattleId": 0
+    },
+    {
+      "avatarId": 1101,
+      "damageDetail": [],
+      "totalDamage": 0,
+      "skillType": 0,
+      "skillName": "{RUBY_B#せんじんいっぽ}先人一歩{RUBY_E#}",
+      "turnBattleId": 0
+    },
+    {
+      "avatarId": 1309,
+      "damageDetail": [],
+      "totalDamage": 0,
+      "skillType": 0,
+      "skillName": "{RUBY_B#ちょうわ}調和{RUBY_E#}の{RUBY_B#じゅんせいりつ}純正律{RUBY_E#}",
+      "turnBattleId": 0
+    },
+    {
+      "avatarId": 1303,
+      "damageDetail": [],
+      "totalDamage": 0,
+      "skillType": 0,
+      "skillName": "フラクタルの{RUBY_B#らせん}螺旋{RUBY_E#}",
+      "turnBattleId": 0
+    },
+    {
+      "avatarId": 1408,
+      "damageDetail": [
+        {
+          "damage": 13189.801669221371,
+          "damage_type": 7
+        },
+        {
+          "damage": 13189.801669221371,
+          "damage_type": 7
+        }
+      ],
+      "totalDamage": 26379.603338442743,
+      "skillType": 7,
+      "skillName": "{RUBY_B#お}終{RUBY_E#}わりの{RUBY_B#はじ}始{RUBY_E#}まり",
+      "turnBattleId": 0
+    },
+    {
+      "avatarId": 1101,
+      "damageDetail": [],
+      "totalDamage": 0,
+      "skillType": 7,
+      "skillName": "{RUBY_B#はた}旗{RUBY_E#}の{RUBY_B#した}下{RUBY_E#}で",
+      "turnBattleId": 0
+    },
+    {
+      "avatarId": 1309,
+      "damageDetail": [],
+      "totalDamage": 0,
+      "skillType": 7,
+      "skillName": "{RUBY_B#めいてい}酩酊{RUBY_E#}のオーバーチュア",
+      "turnBattleId": 0
+    },
+    {
+      "avatarId": 1303,
+      "damageDetail": [],
+      "totalDamage": 0,
+      "skillType": 7,
+      "skillName": "{RUBY_B#ことぬぐ}琴拭{RUBY_E#}い、{RUBY_B#げいしょうな}霓裳撫{RUBY_E#}でる",
+      "turnBattleId": 0
+    },
+    {
+      "avatarId": 0,
+      "damageDetail": [],
+      "totalDamage": 0,
+      "skillType": 0,
+      "skillName": "",
+      "turnBattleId": 0
+    },
+    {
+      "avatarId": 1303,
+      "damageDetail": [],
+      "totalDamage": 0,
+      "skillType": 2,
+      "skillName": "{RUBY_B#ゆる}緩{RUBY_E#}く{RUBY_B#ひね}捻{RUBY_E#}りて",
+      "turnBattleId": 0
+    },
+    {
+      "avatarId": 1303,
+      "damageDetail": [
+        {
+          "damage": 711.3727017429192,
+          "damage_type": 1
+        }
+      ],
+      "totalDamage": 711.3727017429192,
+      "skillType": 1,
+      "skillName": "{RUBY_B#ゆうらん}幽蘭{RUBY_E#}の{RUBY_B#しら}調{RUBY_E#}べ",
+      "turnBattleId": 1
+    },
+    {
+      "avatarId": 1101,
+      "damageDetail": [
+        {
+          "damage": 1670.9765923109371,
+          "damage_type": 9
+        }
+      ],
+      "totalDamage": 1670.9765923109371,
+      "skillType": 0,
+      "skillName": "{RUBY_B#せんじんいっぽ}先人一歩{RUBY_E#}",
+      "turnBattleId": 1
+    },
+    {
+      "avatarId": 1303,
+      "damageDetail": [],
+      "totalDamage": 0,
+      "skillType": 3,
+      "skillName": "{RUBY_B#はな}花{RUBY_E#}に{RUBY_B#ぬ}濡{RUBY_E#}れても{RUBY_B#しずく}雫{RUBY_E#}は{RUBY_B#はら}払{RUBY_E#}わず",
+      "turnBattleId": 1
+    },
+    {
+      "avatarId": 1309,
+      "damageDetail": [],
+      "totalDamage": 0,
+      "skillType": 2,
+      "skillName": "{RUBY_B#ひしょう}飛翔{RUBY_E#}のアリア",
+      "turnBattleId": 2
+    },
+    {
+      "avatarId": 1101,
+      "damageDetail": [],
+      "totalDamage": 0,
+      "skillType": 2,
+      "skillName": "{RUBY_B#さくせんさいてんかい}作戦再展開{RUBY_E#}",
+      "turnBattleId": 5
+    },
+    {
+      "avatarId": 1408,
+      "damageDetail": [
+        {
+          "damage": 29417.593881885754,
+          "damage_type": 2
+        },
+        {
+          "damage": 33313.42476396845,
+          "damage_type": 2
+        },
+        {
+          "damage": 21572.902181876125,
+          "damage_type": 6
+        },
+        {
+          "damage": 61074.61206296692,
+          "damage_type": 6
+        }
+      ],
+      "totalDamage": 145378.53289069724,
+      "skillType": 2,
+      "skillName": "{RUBY_B#れいめい}黎明{RUBY_E#}の{RUBY_B#そうせい}創世{RUBY_E#}、{RUBY_B#てんち}天地{RUBY_E#}を{RUBY_B#かいびゃく}開闢{RUBY_E#}す",
+      "turnBattleId": 6
+    },
+    {
+      "avatarId": 1309,
+      "damageDetail": [
+        {
+          "damage": 47081.534276026534,
+          "damage_type": 6
+        },
+        {
+          "damage": 47081.534276026534,
+          "damage_type": 6
+        },
+        {
+          "damage": 47081.534276026534,
+          "damage_type": 6
+        },
+        {
+          "damage": 47081.534276026534,
+          "damage_type": 6
+        },
+        {
+          "damage": 52312.81588143436,
+          "damage_type": 6
+        },
+        {
+          "damage": 52312.81588143436,
+          "damage_type": 6
+        }
+      ],
+      "totalDamage": 292951.76886697486,
+      "skillType": 3,
+      "skillName": "{RUBY_B#せん}千{RUBY_E#}の{RUBY_B#おと}音{RUBY_E#}で、{RUBY_B#ぐんせい}群星{RUBY_E#}にフーガを",
+      "turnBattleId": 6
+    },
+    {
+      "avatarId": 1303,
+      "damageDetail": [
+        {
+          "damage": 53503.42773788236,
+          "damage_type": 10
+        },
+        {
+          "damage": 53503.42773788236,
+          "damage_type": 10
+        }
+      ],
+      "totalDamage": 107006.85547576472,
+      "skillType": 2,
+      "skillName": "{RUBY_B#ゆる}緩{RUBY_E#}く{RUBY_B#ひね}捻{RUBY_E#}りて",
+      "turnBattleId": 7
+    },
+    {
+      "avatarId": 1101,
+      "damageDetail": [],
+      "totalDamage": 0,
+      "skillType": 3,
+      "skillName": "ベロブルグ{RUBY_B#こうしんきょく}行進曲{RUBY_E#}",
+      "turnBattleId": 7
+    },
+    {
+      "avatarId": 1408,
+      "damageDetail": [
+        {
+          "damage": 55880.98465043423,
+          "damage_type": 2
+        },
+        {
+          "damage": 22352.39386364282,
+          "damage_type": 2
+        },
+        {
+          "damage": 138107.81844934565,
+          "damage_type": 6
+        },
+        {
+          "damage": 138107.81844934565,
+          "damage_type": 6
+        }
+      ],
+      "totalDamage": 354449.01541276835,
+      "skillType": 2,
+      "skillName": "{RUBY_B#れいめい}黎明{RUBY_E#}の{RUBY_B#そうせい}創世{RUBY_E#}、{RUBY_B#てんち}天地{RUBY_E#}を{RUBY_B#かいびゃく}開闢{RUBY_E#}す",
+      "turnBattleId": 8
+    },
+    {
+      "avatarId": 1101,
+      "damageDetail": [],
+      "totalDamage": 0,
+      "skillType": 2,
+      "skillName": "{RUBY_B#さくせんさいてんかい}作戦再展開{RUBY_E#}",
+      "turnBattleId": 9
+    },
+    {
+      "avatarId": 1408,
+      "damageDetail": [
+        {
+          "damage": 198928.31288920785,
+          "damage_type": 2
+        },
+        {
+          "damage": 79571.32516803336,
+          "damage_type": 2
+        },
+        {
+          "damage": 145880.76279776916,
+          "damage_type": 6
+        },
+        {
+          "damage": 145880.76279776916,
+          "damage_type": 6
+        }
+      ],
+      "totalDamage": 570261.1636527795,
+      "skillType": 2,
+      "skillName": "{RUBY_B#れいめい}黎明{RUBY_E#}の{RUBY_B#そうせい}創世{RUBY_E#}、{RUBY_B#てんち}天地{RUBY_E#}を{RUBY_B#かいびゃく}開闢{RUBY_E#}す",
+      "turnBattleId": 10
+    },
+    {
+      "avatarId": 1408,
+      "damageDetail": [],
+      "totalDamage": 0,
+      "skillType": 3,
+      "skillName": "{RUBY_B#えいごう}永劫{RUBY_E#}の{RUBY_B#しょうせい}焼世{RUBY_E#}、{RUBY_B#せお}背負{RUBY_E#}うべき{RUBY_B#みらい}未来{RUBY_E#}",
+      "turnBattleId": 10
+    },
+    {
+      "avatarId": 1408,
+      "damageDetail": [
+        {
+          "damage": 66583.5101974518,
+          "damage_type": 2
+        },
+        {
+          "damage": 17204.25181728881,
+          "damage_type": 2
+        },
+        {
+          "damage": 66583.5101974518,
+          "damage_type": 2
+        },
+        {
+          "damage": 66583.5101974518,
+          "damage_type": 2
+        },
+        {
+          "damage": 66583.5101974518,
+          "damage_type": 2
+        },
+        {
+          "damage": 66583.5101974518,
+          "damage_type": 2
+        },
+        {
+          "damage": 66583.5101974518,
+          "damage_type": 2
+        },
+        {
+          "damage": 66583.5101974518,
+          "damage_type": 2
+        },
+        {
+          "damage": 66583.5101974518,
+          "damage_type": 2
+        },
+        {
+          "damage": 66583.5101974518,
+          "damage_type": 2
+        },
+        {
+          "damage": 66583.5101974518,
+          "damage_type": 2
+        },
+        {
+          "damage": 66583.5101974518,
+          "damage_type": 2
+        },
+        {
+          "damage": 66583.5101974518,
+          "damage_type": 2
+        },
+        {
+          "damage": 66583.5101974518,
+          "damage_type": 2
+        },
+        {
+          "damage": 66583.5101974518,
+          "damage_type": 2
+        },
+        {
+          "damage": 17204.25181728881,
+          "damage_type": 2
+        },
+        {
+          "damage": 332917.5507116704,
+          "damage_type": 2
+        },
+        {
+          "damage": 332917.5507116704,
+          "damage_type": 2
+        },
+        {
+          "damage": 84109.67547998205,
+          "damage_type": 6
+        },
+        {
+          "damage": 325519.3829119557,
+          "damage_type": 6
+        },
+        {
+          "damage": 269930.8444063817,
+          "damage_type": 7
+        }
+      ],
+      "totalDamage": 2311972.650620563,
+      "skillType": 2,
+      "skillName": "{RUBY_B#しちゅう}支柱{RUBY_E#}・{RUBY_B#しせい}死星{RUBY_E#}の{RUBY_B#てんさい}天裁{RUBY_E#}",
+      "turnBattleId": 11
+    },
+    {
+      "avatarId": 1408,
+      "damageDetail": [
+        {
+          "damage": 101224.06674666097,
+          "damage_type": 1
+        },
+        {
+          "damage": 61028.074896368664,
+          "damage_type": 1
+        }
+      ],
+      "totalDamage": 162252.14164302964,
+      "skillType": 1,
+      "skillName": "{RUBY_B#そうせい}創生{RUBY_E#}・{RUBY_B#けっけい}血荊{RUBY_E#}の{RUBY_B#そうそう}葬送{RUBY_E#}",
+      "turnBattleId": 12
+    },
+    {
+      "avatarId": 1408,
+      "damageDetail": [
+        {
+          "damage": 15692.93354269187,
+          "damage_type": 2
+        },
+        {
+          "damage": 60734.44004799612,
+          "damage_type": 2
+        },
+        {
+          "damage": 60734.44004799612,
+          "damage_type": 2
+        },
+        {
+          "damage": 15692.93354269187,
+          "damage_type": 2
+        },
+        {
+          "damage": 15692.93354269187,
+          "damage_type": 2
+        },
+        {
+          "damage": 60734.44004799612,
+          "damage_type": 2
+        },
+        {
+          "damage": 60734.44004799612,
+          "damage_type": 2
+        },
+        {
+          "damage": 15692.93354269187,
+          "damage_type": 2
+        },
+        {
+          "damage": 60734.44004799612,
+          "damage_type": 2
+        },
+        {
+          "damage": 60734.44004799612,
+          "damage_type": 2
+        },
+        {
+          "damage": 60734.44004799612,
+          "damage_type": 2
+        },
+        {
+          "damage": 15692.93354269187,
+          "damage_type": 2
+        },
+        {
+          "damage": 60734.44004799612,
+          "damage_type": 2
+        },
+        {
+          "damage": 60734.44004799612,
+          "damage_type": 2
+        },
+        {
+          "damage": 47571.423144556815,
+          "damage_type": 10
+        },
+        {
+          "damage": 60734.44004799612,
+          "damage_type": 2
+        },
+        {
+          "damage": 67482.71117151831,
+          "damage_type": 2
+        },
+        {
+          "damage": 674827.1111565693,
+          "damage_type": 2
+        },
+        {
+          "damage": 329915.47655922617,
+          "damage_type": 6
+        }
+      ],
+      "totalDamage": 1805605.7902252912,
+      "skillType": 2,
+      "skillName": "{RUBY_B#しちゅう}支柱{RUBY_E#}・{RUBY_B#しせい}死星{RUBY_E#}の{RUBY_B#てんさい}天裁{RUBY_E#}",
+      "turnBattleId": 13
+    },
+    {
+      "avatarId": 1408,
+      "damageDetail": [
+        {
+          "damage": 112471.18528586556,
+          "damage_type": 1
+        },
+        {
+          "damage": 262432.76570194424,
+          "damage_type": 1
+        }
+      ],
+      "totalDamage": 374903.9509878098,
+      "skillType": 1,
+      "skillName": "{RUBY_B#そうせい}創生{RUBY_E#}・{RUBY_B#けっけい}血荊{RUBY_E#}の{RUBY_B#そうそう}葬送{RUBY_E#}",
+      "turnBattleId": 13
+    },
+    {
+      "avatarId": 1408,
+      "damageDetail": [
+        {
+          "damage": 112471.18528586556,
+          "damage_type": 1
+        },
+        {
+          "damage": 262432.76570194424,
+          "damage_type": 1
+        }
+      ],
+      "totalDamage": 374903.9509878098,
+      "skillType": 1,
+      "skillName": "{RUBY_B#そうせい}創生{RUBY_E#}・{RUBY_B#けっけい}血荊{RUBY_E#}の{RUBY_B#そうそう}葬送{RUBY_E#}",
+      "turnBattleId": 15
+    },
+    {
+      "avatarId": 1408,
+      "damageDetail": [
+        {
+          "damage": 67482.71117151831,
+          "damage_type": 2
+        },
+        {
+          "damage": 67482.71117151831,
+          "damage_type": 2
+        },
+        {
+          "damage": 67482.71117151831,
+          "damage_type": 2
+        },
+        {
+          "damage": 67482.71117151831,
+          "damage_type": 2
+        },
+        {
+          "damage": 17436.5928270421,
+          "damage_type": 2
+        },
+        {
+          "damage": 67482.71117151831,
+          "damage_type": 2
+        },
+        {
+          "damage": 67482.71117151831,
+          "damage_type": 2
+        },
+        {
+          "damage": 67482.71117151831,
+          "damage_type": 2
+        },
+        {
+          "damage": 67482.71117151831,
+          "damage_type": 2
+        },
+        {
+          "damage": 67482.71117151831,
+          "damage_type": 2
+        },
+        {
+          "damage": 67482.71117151831,
+          "damage_type": 2
+        },
+        {
+          "damage": 52857.136832829565,
+          "damage_type": 10
+        },
+        {
+          "damage": 67482.71117151831,
+          "damage_type": 2
+        },
+        {
+          "damage": 67482.71117151831,
+          "damage_type": 2
+        },
+        {
+          "damage": 17436.5928270421,
+          "damage_type": 2
+        },
+        {
+          "damage": 67482.71117151831,
+          "damage_type": 2
+        },
+        {
+          "damage": 67482.71117151831,
+          "damage_type": 2
+        },
+        {
+          "damage": 174365.92812608252,
+          "damage_type": 2
+        },
+        {
+          "damage": 329915.47655922617,
+          "damage_type": 6
+        }
+      ],
+      "totalDamage": 1536769.6835734788,
+      "skillType": 2,
+      "skillName": "{RUBY_B#しちゅう}支柱{RUBY_E#}・{RUBY_B#しせい}死星{RUBY_E#}の{RUBY_B#てんさい}天裁{RUBY_E#}",
+      "turnBattleId": 16
+    }
+  ],
+  "dataAvatar": [],
+  "totalAV": 147.34561651246622,
+  "totalDamage": 8065217.456969462,
+  "damagePerAV": 54736.731555818646,
+  "cycleIndex": 30,
+  "waveIndex": 2,
+  "maxWave": 2,
+  "maxCycle": 30,
+  "version": "0.2.32",
+  "avatarDetail": {
+    "1101": {
+      "id": 1101,
+      "isDie": false,
+      "killer_uid": -1,
+      "stats": {
+        "Speed": 160.31200003554113,
+        "AV": 62.37836218206212,
+        "AvatarExtraRank": 0,
+        "EquipExtraRank": 0,
+        "EquipValueExtraAdditionRatio": 0,
+        "RelicValueExtraAdditionRatio": 0,
+        "Rank": 6,
+        "Promotion": 6,
+        "Level": 80,
+        "MaxHP": 3744.200780802639,
+        "HP": 2148.2049777822103,
+        "BaseHP": 2406.0960000571795,
+        "MaxSP": 120,
+        "CurrentSP": 56.00379061885178,
+        "BaseAttack": 1111.320000115782,
+        "BaseDefence": 996.6600000583567,
+        "BaseSpeed": 99,
+        "CriticalChance": 0.05000000004656613,
+        "CriticalChanceBase": 0.05000000004656613,
+        "CriticalDamage": 2.6584576221648604,
+        "CriticalDamageBase": 1.1793600185774267,
+        "SPRatio": 1.3143940176814795,
+        "SPRatioBase": 0.19439401756972075,
+        "HPDelta": 747.937549012946,
+        "AttackDelta": 598.3577710296959,
+        "DefenceAddedRatio": 0.37799999909475446,
+        "SpeedDelta": 29.632000006036833,
+        "DefenceDelta": 76.20758400578052,
+        "HPAddedRatio": 0.12000000011175871,
+        "AttackAddedRatio": 0.10800000163726509,
+        "StatusProbability": 0.19872000301256776,
+        "StatusProbabilityBase": 0.19872000301256776,
+        "WindAddedRatio": 0.38880301429890096,
+        "BreakDamageAddedRatio": 0.3231200031004846,
+        "BreakDamageAddedRatioBase": 0.1231200029142201,
+        "SpeedAddedRatio": 0.060000000055879354,
+        "StatusResistance": 0.10000000009313226,
+        "Shield": 0,
+        "MaxShield": 0
+      },
+      "statsHistory": [
+        {
+          "stats": {
+            "Speed": 99
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AV": 101.01010100916028
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AvatarExtraRank": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "EquipExtraRank": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "EquipValueExtraAdditionRatio": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "RelicValueExtraAdditionRatio": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Rank": 6
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Promotion": 6
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Level": 80
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Level": 80
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "MaxHP": 2406.0960000571795
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "HP": 2406.0960000571795
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BaseHP": 2406.0960000571795
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "MaxHP": 2406.0960000571795
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "HP": 2406.0960000571795
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "MaxSP": 120
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSP": 60
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BaseAttack": 1111.320000115782
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BaseDefence": 996.6600000583567
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Speed": 99
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BaseSpeed": 99
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalChance": 0.05000000004656613
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalChanceBase": 0.05000000004656613
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalDamage": 0.5000000004656613
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalDamageBase": 0.5000000004656613
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "SPRatio": 1.1200000001117587
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "SPRatioBase": 0.12000000011175871
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "MaxHP": 3154.0335490701254
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "HP": 3154.0335490701254
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "HPDelta": 747.937549012946
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AttackDelta": 598.3577710296959
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "DefenceAddedRatio": 0.37799999909475446
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AV": 77.74115305393934
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Speed": 128.63200000603683
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "SpeedDelta": 29.632000006036833
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalDamage": 1.679360019043088
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalDamageBase": 1.1793600185774267
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "DefenceDelta": 76.20758400578052
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "MaxHP": 3455.469260526821
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "HP": 3455.469260526821
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "HPAddedRatio": 0.1252800018992275
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AttackAddedRatio": 0.10800000163726509
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "StatusProbability": 0.19872000301256776
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "StatusProbabilityBase": 0.19872000301256776
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "WindAddedRatio": 0.38880301429890096
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "SPRatio": 1.3143940176814795
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "SPRatioBase": 0.19439401756972075
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BreakDamageAddedRatio": 0.1231200029142201
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BreakDamageAddedRatioBase": 0.1231200029142201
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AV": 74.30966322310269
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Speed": 134.5720000115689
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "SpeedAddedRatio": 0.060000000055879354
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "MaxHP": 3744.200780802639
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "HP": 3744.200780802639
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "HPAddedRatio": 0.12000000011175871
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalDamage": 1.9193600185681134
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "StatusResistance": 0.10000000009313226
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalDamage": 2.119360018754378
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AV": 69.2175646382384
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Speed": 144.47200002078898
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BreakDamageAddedRatio": 0.3231200031004846
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSP": 85
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSP": 95
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AV": 26.03096978738904
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSP": 6.571970088407397
+          },
+          "turnBattleId": 1
+        },
+        {
+          "stats": {
+            "AV": 16.25146296573803
+          },
+          "turnBattleId": 1
+        },
+        {
+          "stats": {
+            "AV": 11.82546180440113
+          },
+          "turnBattleId": 2
+        },
+        {
+          "stats": {
+            "HP": 2857.536445852369
+          },
+          "turnBattleId": 3
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 3
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 3
+        },
+        {
+          "stats": {
+            "CurrentSP": 13.143940176814795
+          },
+          "turnBattleId": 3
+        },
+        {
+          "stats": {
+            "AV": 6.086251521483064
+          },
+          "turnBattleId": 3
+        },
+        {
+          "stats": {
+            "HP": 2148.2049777822103
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "CurrentSP": 13.143940176814795
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "AV": 0
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 5
+        },
+        {
+          "stats": {
+            "CurrentSP": 159.43182053044438
+          },
+          "turnBattleId": 5
+        },
+        {
+          "stats": {
+            "AV": 69.2175646382384
+          },
+          "turnBattleId": 5
+        },
+        {
+          "stats": {
+            "AV": 69.2175646382384
+          },
+          "turnBattleId": 5
+        },
+        {
+          "stats": {
+            "AV": 0
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "Speed": 160.31200003554113
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "AV": 0
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "CurrentSP": 4294967176
+          },
+          "turnBattleId": 7
+        },
+        {
+          "stats": {
+            "Speed": 172.19200004660524
+          },
+          "turnBattleId": 7
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 7
+        },
+        {
+          "stats": {
+            "CriticalDamage": 2.6584576221648604
+          },
+          "turnBattleId": 7
+        },
+        {
+          "stats": {
+            "CurrentSP": 6.571970088407397
+          },
+          "turnBattleId": 7
+        },
+        {
+          "stats": {
+            "AV": 0
+          },
+          "turnBattleId": 7
+        },
+        {
+          "stats": {
+            "AV": 0
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 9
+        },
+        {
+          "stats": {
+            "CurrentSP": 46.00379061885178
+          },
+          "turnBattleId": 9
+        },
+        {
+          "stats": {
+            "AV": 58.07470728876069
+          },
+          "turnBattleId": 9
+        },
+        {
+          "stats": {
+            "AV": 62.37836218206212
+          },
+          "turnBattleId": 9
+        },
+        {
+          "stats": {
+            "Speed": 160.31200003554113
+          },
+          "turnBattleId": 9
+        },
+        {
+          "stats": {
+            "AV": 62.37836218206212
+          },
+          "turnBattleId": 9
+        },
+        {
+          "stats": {
+            "CurrentSP": 56.00379061885178
+          },
+          "turnBattleId": 11
+        }
+      ]
+    },
+    "1303": {
+      "id": 1303,
+      "isDie": false,
+      "killer_uid": -1,
+      "stats": {
+        "Speed": 168.05200003343634,
+        "AV": 59.50539117679,
+        "AvatarExtraRank": 0,
+        "EquipExtraRank": 0,
+        "EquipValueExtraAdditionRatio": 0,
+        "RelicValueExtraAdditionRatio": 0,
+        "Rank": 1,
+        "Promotion": 6,
+        "Level": 80,
+        "MaxHP": 3256.1919705886394,
+        "HP": 2073.535030421801,
+        "BaseHP": 2145.0240000332706,
+        "MaxSP": 130,
+        "CurrentSP": 84.66364105697721,
+        "BaseAttack": 1188.9360000365414,
+        "BaseDefence": 1014.3000000673346,
+        "BaseSpeed": 104,
+        "CriticalChance": 0.373999998671934,
+        "CriticalChanceBase": 0.3239999986253679,
+        "CriticalDamage": 1.4658976085484028,
+        "CriticalDamageBase": 0.22680000448599458,
+        "BreakDamageAddedRatio": 2.5881200230214745,
+        "BreakDamageAddedRatioBase": 0.3200000002980232,
+        "HPDelta": 777.5738330131862,
+        "AttackDelta": 429.0075840174686,
+        "DefenceDelta": 71.97383000422269,
+        "SpeedDelta": 29.93200000631623,
+        "HPAddedRatio": 0.15552000235766172,
+        "DefenceAddedRatio": 0.6804000064730644,
+        "StatusProbability": 0.06912000104784966,
+        "StatusProbabilityBase": 0.06912000104784966,
+        "StatusResistance": 0.11232000170275569,
+        "StatusResistanceBase": 0.11232000170275569,
+        "SPRatio": 1.2443940176162869,
+        "SPRatioBase": 0.05000000004656613,
+        "AttackAddedRatio": 0.08208000124432147,
+        "Shield": 0,
+        "MaxShield": 0
+      },
+      "statsHistory": [
+        {
+          "stats": {
+            "Speed": 104
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AV": 96.15384615492076
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AvatarExtraRank": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "EquipExtraRank": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "EquipValueExtraAdditionRatio": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "RelicValueExtraAdditionRatio": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Rank": 1
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Promotion": 6
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Level": 80
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Level": 80
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "MaxHP": 2145.0240000332706
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "HP": 2145.0240000332706
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BaseHP": 2145.0240000332706
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "MaxHP": 2145.0240000332706
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "HP": 2145.0240000332706
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "MaxSP": 130
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSP": 65
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BaseAttack": 1188.9360000365414
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BaseDefence": 1014.3000000673346
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Speed": 104
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BaseSpeed": 104
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalChance": 0.05000000004656613
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalChanceBase": 0.05000000004656613
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalDamage": 0.5000000004656613
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalDamageBase": 0.5000000004656613
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BreakDamageAddedRatio": 0.6000000005587935
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BreakDamageAddedRatioBase": 0.6000000005587935
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "MaxHP": 2922.597833046457
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "HP": 2922.597833046457
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "HPDelta": 777.5738330131862
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AttackDelta": 429.0075840174686
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "DefenceDelta": 71.97383000422269
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AV": 74.66475524473935
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Speed": 133.93200000631623
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "SpeedDelta": 29.93200000631623
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BreakDamageAddedRatio": 1.695120023097843
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BreakDamageAddedRatioBase": 1.0951200225390494
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalChance": 0.373999998671934
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalChanceBase": 0.3239999986253679
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "MaxHP": 3256.1919705886394
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "HP": 3256.1919705886394
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "HPAddedRatio": 0.15552000235766172
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "DefenceAddedRatio": 0.6804000064730644
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "StatusProbability": 0.06912000104784966
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "StatusProbabilityBase": 0.06912000104784966
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalDamage": 0.7268000049516559
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalDamageBase": 0.22680000448599458
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "StatusResistance": 0.11232000170275569
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "StatusResistanceBase": 0.11232000170275569
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "SPRatio": 1.1943940175697207
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "SPRatioBase": 0.19439401756972075
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AttackAddedRatio": 0.08208000124432147
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BreakDamageAddedRatio": 2.015120023395866
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BreakDamageAddedRatioBase": 0.3200000002980232
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "SPRatio": 1.2443940176162869
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "SPRatioBase": 0.05000000004656613
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BreakDamageAddedRatio": 2.38812002283521
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AV": 71.97765813209116
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Speed": 138.93200000631623
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BreakDamageAddedRatio": 2.5881200230214745
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalDamage": 0.9268000051379204
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSP": 90
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSP": 100
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AV": 42949672931.20894
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSP": 137.3318205284886
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AV": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSP": 136.22197008808143
+          },
+          "turnBattleId": 1
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 1
+        },
+        {
+          "stats": {
+            "CurrentSP": 24.887880352325737
+          },
+          "turnBattleId": 1
+        },
+        {
+          "stats": {
+            "AV": 71.97765813209116
+          },
+          "turnBattleId": 1
+        },
+        {
+          "stats": {
+            "CurrentSP": 4294967166
+          },
+          "turnBattleId": 1
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 1
+        },
+        {
+          "stats": {
+            "CurrentSP": 6.221970088081434
+          },
+          "turnBattleId": 1
+        },
+        {
+          "stats": {
+            "AV": 62.19815131044015
+          },
+          "turnBattleId": 1
+        },
+        {
+          "stats": {
+            "AV": 57.772150149103254
+          },
+          "turnBattleId": 2
+        },
+        {
+          "stats": {
+            "AV": 52.03293986618519
+          },
+          "turnBattleId": 3
+        },
+        {
+          "stats": {
+            "HP": 2664.86350050522
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "CurrentSP": 12.443940176162869
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "HP": 2073.535030421801
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "CurrentSP": 12.443940176162869
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "AV": 45.946688344702125
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "AV": 45.946688344702125
+          },
+          "turnBattleId": 5
+        },
+        {
+          "stats": {
+            "AV": 0
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "Speed": 155.57200002181344
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "AV": 0
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "CurrentSP": 37.331820528488606
+          },
+          "turnBattleId": 7
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 7
+        },
+        {
+          "stats": {
+            "CurrentSP": 74.66364105697721
+          },
+          "turnBattleId": 7
+        },
+        {
+          "stats": {
+            "AV": 64.27891907747835
+          },
+          "turnBattleId": 7
+        },
+        {
+          "stats": {
+            "AV": 59.50539117679
+          },
+          "turnBattleId": 7
+        },
+        {
+          "stats": {
+            "Speed": 168.05200003343634
+          },
+          "turnBattleId": 7
+        },
+        {
+          "stats": {
+            "CriticalDamage": 1.4658976085484028
+          },
+          "turnBattleId": 7
+        },
+        {
+          "stats": {
+            "AV": 59.50539117679
+          },
+          "turnBattleId": 7
+        },
+        {
+          "stats": {
+            "AV": 59.50539117679
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "AV": 59.50539117679
+          },
+          "turnBattleId": 9
+        },
+        {
+          "stats": {
+            "CurrentSP": 84.66364105697721
+          },
+          "turnBattleId": 11
+        }
+      ]
+    },
+    "1309": {
+      "id": 1309,
+      "isDie": false,
+      "killer_uid": -1,
+      "stats": {
+        "Speed": 170.16000003833324,
+        "AV": 45.24443372152746,
+        "AvatarExtraRank": 0,
+        "EquipExtraRank": 0,
+        "EquipValueExtraAdditionRatio": 0,
+        "RelicValueExtraAdditionRatio": 0,
+        "Rank": 2,
+        "Promotion": 6,
+        "Level": 80,
+        "MaxHP": 3784.5906004984863,
+        "HP": 1915.6554438276216,
+        "BaseHP": 2233.224000077229,
+        "MaxSP": 160,
+        "CurrentSP": 58.39257861208171,
+        "BaseAttack": 1275.3720000169706,
+        "BaseDefence": 948.1500000336673,
+        "BaseSpeed": 102,
+        "CriticalChance": 0.11480000172741711,
+        "CriticalChanceBase": 0.06480000168085098,
+        "CriticalDamage": 1.4788576094433665,
+        "CriticalDamageBase": 0.23976000538095832,
+        "AttackAddedRatio": 0.3600000003352761,
+        "SpeedDelta": 24.400000002235174,
+        "StatusResistance": 0.31968000484630466,
+        "StatusResistanceBase": 0.31968000484630466,
+        "BreakDamageAddedRatio": 0.4203200042247772,
+        "BreakDamageAddedRatioBase": 0.2203200040385127,
+        "AttackDelta": 505.21516802324913,
+        "HPAddedRatio": 0.19872000301256776,
+        "StatusProbability": 0.1209600018337369,
+        "StatusProbabilityBase": 0.1209600018337369,
+        "HPDelta": 705.6000000101048,
+        "SPRatio": 1.3693940159864724,
+        "SPRatioBase": 0.19439401756972075,
+        "DefenceAddedRatio": 0.1079999995417893,
+        "Shield": 0,
+        "MaxShield": 0
+      },
+      "statsHistory": [
+        {
+          "stats": {
+            "Speed": 102
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AV": 98.03921568673104
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AvatarExtraRank": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "EquipExtraRank": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "EquipValueExtraAdditionRatio": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "RelicValueExtraAdditionRatio": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Rank": 2
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Promotion": 6
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Level": 80
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Level": 80
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "MaxHP": 2233.224000077229
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "HP": 2233.224000077229
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BaseHP": 2233.224000077229
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "MaxHP": 2233.224000077229
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "HP": 2233.224000077229
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "MaxSP": 160
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSP": 80
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BaseAttack": 1275.3720000169706
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BaseDefence": 948.1500000336673
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Speed": 102
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BaseSpeed": 102
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalChance": 0.05000000004656613
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalChanceBase": 0.05000000004656613
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalDamage": 0.5000000004656613
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalDamageBase": 0.5000000004656613
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AttackAddedRatio": 1.4601600242312998
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AV": 79.11392404930666
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Speed": 126.40000000223517
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "SpeedDelta": 24.400000002235174
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalChance": 0.11480000172741711
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalChanceBase": 0.06480000168085098
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "StatusResistance": 0.31968000484630466
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "StatusResistanceBase": 0.31968000484630466
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BreakDamageAddedRatio": 0.2203200040385127
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BreakDamageAddedRatioBase": 0.2203200040385127
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AttackDelta": 505.21516802324913
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "MaxHP": 2677.010280100163
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "HP": 2677.010280100163
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "HPAddedRatio": 0.19872000301256776
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "StatusProbability": 0.1209600018337369
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "StatusProbabilityBase": 0.1209600018337369
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "MaxHP": 3382.610280110268
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "HP": 3382.610280110268
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "HPDelta": 705.6000000101048
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalDamage": 0.7397600058466196
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalDamageBase": 0.23976000538095832
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "SPRatio": 1.1943940175697207
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "SPRatioBase": 0.19439401756972075
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "DefenceAddedRatio": 0.1079999995417893
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AttackAddedRatio": 0.3600000003352761
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "MaxHP": 3784.5906004984863
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "HP": 3784.5906004984863
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AV": 76.1035007587634
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Speed": 131.40000000223517
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalDamage": 0.9397600060328841
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AV": 70.62146892072633
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Speed": 141.60000001173466
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BreakDamageAddedRatio": 0.4203200042247772
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSP": 105
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AV": 42949672942.344635
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSP": 110.9719700878486
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSP": 120.9719700878486
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "SPRatio": 1.229394017253071
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSP": 124.66015213960782
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AV": 9.779506821651012
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "SPRatio": 1.1943940175697207
+          },
+          "turnBattleId": 1
+        },
+        {
+          "stats": {
+            "SPRatio": 1.2643940169364214
+          },
+          "turnBattleId": 1
+        },
+        {
+          "stats": {
+            "CurrentSP": 128.45333419041708
+          },
+          "turnBattleId": 1
+        },
+        {
+          "stats": {
+            "SPRatio": 1.1943940175697207
+          },
+          "turnBattleId": 1
+        },
+        {
+          "stats": {
+            "SPRatio": 1.2993940166197717
+          },
+          "turnBattleId": 1
+        },
+        {
+          "stats": {
+            "CurrentSP": 132.3515162402764
+          },
+          "turnBattleId": 1
+        },
+        {
+          "stats": {
+            "AV": 0
+          },
+          "turnBattleId": 1
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 2
+        },
+        {
+          "stats": {
+            "CurrentSP": 138.84848632337525
+          },
+          "turnBattleId": 2
+        },
+        {
+          "stats": {
+            "CurrentSP": 177.8303068219684
+          },
+          "turnBattleId": 2
+        },
+        {
+          "stats": {
+            "AV": 70.62146892072633
+          },
+          "turnBattleId": 2
+        },
+        {
+          "stats": {
+            "AV": 66.19546775938943
+          },
+          "turnBattleId": 2
+        },
+        {
+          "stats": {
+            "AV": 60.456257476471364
+          },
+          "turnBattleId": 3
+        },
+        {
+          "stats": {
+            "HP": 2746.2932913084514
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "CurrentSP": 12.993940166197717
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "HP": 1915.6554438276216
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "CurrentSP": 12.993940166197717
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "AV": 54.3700059549883
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "AV": 54.3700059549883
+          },
+          "turnBattleId": 5
+        },
+        {
+          "stats": {
+            "SPRatio": 1.1943940175697207
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "SPRatio": 1.334394016303122
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "CurrentSP": 164.00318204890937
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "CurrentSP": 4294967136
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "SPRatio": 1.1943940175697207
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "AV": 48.75122114084661
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "Speed": 157.92000002693385
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "CurrentSP": 5.971970087848604
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "AV": 45.24443372152746
+          },
+          "turnBattleId": 7
+        },
+        {
+          "stats": {
+            "Speed": 170.16000003833324
+          },
+          "turnBattleId": 7
+        },
+        {
+          "stats": {
+            "CriticalDamage": 1.4788576094433665
+          },
+          "turnBattleId": 7
+        },
+        {
+          "stats": {
+            "SPRatio": 1.229394017253071
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "CurrentSP": 9.660152139607817
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "SPRatio": 1.1943940175697207
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "SPRatio": 1.2643940169364214
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "CurrentSP": 13.453334190417081
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "SPRatio": 1.1943940175697207
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "SPRatio": 1.2993940166197717
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentSP": 17.351516240276396
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentSP": 23.848486323375255
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentSP": 33.848486323375255
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "SPRatio": 1.1943940175697207
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "SPRatio": 1.334394016303122
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentSP": 37.85166837228462
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "SPRatio": 1.1943940175697207
+          },
+          "turnBattleId": 12
+        },
+        {
+          "stats": {
+            "SPRatio": 1.3693940159864724
+          },
+          "turnBattleId": 12
+        },
+        {
+          "stats": {
+            "CurrentSP": 41.95985042024404
+          },
+          "turnBattleId": 12
+        },
+        {
+          "stats": {
+            "SPRatio": 1.1943940175697207
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "SPRatio": 1.3693940159864724
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "CurrentSP": 46.068032468203455
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "SPRatio": 1.1943940175697207
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "SPRatio": 1.3693940159864724
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "CurrentSP": 50.17621451616287
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "SPRatio": 1.1943940175697207
+          },
+          "turnBattleId": 15
+        },
+        {
+          "stats": {
+            "SPRatio": 1.3693940159864724
+          },
+          "turnBattleId": 15
+        },
+        {
+          "stats": {
+            "CurrentSP": 54.28439656412229
+          },
+          "turnBattleId": 15
+        },
+        {
+          "stats": {
+            "SPRatio": 1.1943940175697207
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "SPRatio": 1.3693940159864724
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "CurrentSP": 58.39257861208171
+          },
+          "turnBattleId": 16
+        }
+      ]
+    },
+    "1408": {
+      "id": 1408,
+      "isDie": false,
+      "killer_uid": -1,
+      "stats": {
+        "Speed": 177.5600000564009,
+        "AV": 56.31899074651301,
+        "AvatarExtraRank": 0,
+        "EquipExtraRank": 0,
+        "EquipValueExtraAdditionRatio": 0,
+        "RelicValueExtraAdditionRatio": 0,
+        "Rank": 2,
+        "Promotion": 6,
+        "Level": 80,
+        "MaxHP": 9950.33998089796,
+        "HP": 9845.109369265847,
+        "BaseHP": 2388.4560000482015,
+        "MaxSpecialSP": 12,
+        "CurrentSpecialSP": 0,
+        "MaxSP": 0,
+        "CurrentSP": 10,
+        "BaseAttack": 1270.0800001211464,
+        "BaseDefence": 1100.2950000825804,
+        "BaseSpeed": 12,
+        "CriticalChance": 0.7596800038591027,
+        "CriticalChanceBase": 0.5896800043992698,
+        "CriticalDamage": 2.870177611010149,
+        "CriticalDamageBase": 0.1600000001490116,
+        "HPDelta": 824.1451370168943,
+        "AttackAddedRatio": 0.9504000158049166,
+        "DefenceAddedRatio": 0.09719999972730875,
+        "SpeedDelta": 7.200000001117587,
+        "AttackDelta": 373.96877301391214,
+        "HPAddedRatio": 0.1209600018337369,
+        "BreakDamageAddedRatio": 0.6730400105006993,
+        "BreakDamageAddedRatioBase": 0.47304001031443477,
+        "DefenceDelta": 133.3632720101159,
+        "StatusResistance": 0.18576000281609595,
+        "StatusResistanceBase": 0.18576000281609595,
+        "PhysicalAddedRatio": 0.38880301429890096,
+        "Shield": 0,
+        "MaxShield": 0
+      },
+      "statsHistory": [
+        {
+          "stats": {
+            "Speed": 94
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AV": 106.3829787238501
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AvatarExtraRank": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "EquipExtraRank": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "EquipValueExtraAdditionRatio": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "RelicValueExtraAdditionRatio": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Rank": 2
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Promotion": 6
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Level": 80
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Level": 80
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "MaxHP": 2388.4560000482015
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "HP": 2388.4560000482015
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BaseHP": 2388.4560000482015
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "MaxHP": 2388.4560000482015
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "HP": 2388.4560000482015
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "MaxSpecialSP": 12
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSpecialSP": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "MaxSP": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BaseAttack": 1270.0800001211464
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BaseDefence": 1100.2950000825804
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Speed": 94
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BaseSpeed": 94
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalChance": 0.05000000004656613
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalChanceBase": 0.05000000004656613
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalDamage": 0.5000000004656613
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalDamageBase": 0.5000000004656613
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AV": 94.33962264098227
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Speed": 106
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BaseSpeed": 12
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "MaxHP": 3212.601137065096
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "HP": 3212.601137065096
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "HPDelta": 824.1451370168943
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AttackAddedRatio": 0.9504000158049166
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "DefenceAddedRatio": 0.09719999972730875
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AV": 88.33922261372209
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Speed": 113.20000000111759
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "SpeedDelta": 7.200000001117587
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalChance": 0.639680004445836
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalChanceBase": 0.5896800043992698
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AttackDelta": 373.96877301391214
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "MaxHP": 3501.508779210504
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "HP": 3501.508779210504
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "HPAddedRatio": 0.1209600018337369
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalDamage": 0.7980800070799887
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalDamageBase": 0.29808000661432743
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BreakDamageAddedRatio": 0.47304001031443477
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BreakDamageAddedRatioBase": 0.47304001031443477
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "DefenceDelta": 133.3632720101159
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "StatusResistance": 0.18576000281609595
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "StatusResistanceBase": 0.18576000281609595
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "PhysicalAddedRatio": 0.38880301429890096
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalDamage": 0.9580800072290003
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalDamageBase": 0.1600000001490116
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalDamage": 1.3310800066683441
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalChance": 0.7596800038591027
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AV": 84.60236886516213
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Speed": 118.20000000111759
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSpecialSP": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSpecialSP": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSpecialSP": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CriticalDamage": 1.5310800068546087
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AV": 77.63975154608488
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Speed": 128.8000000109896
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "BreakDamageAddedRatio": 0.6730400105006993
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSpecialSP": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSpecialSP": 1
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSP": 10
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AV": 34.45315669523552
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSpecialSP": 2
+          },
+          "turnBattleId": 1
+        },
+        {
+          "stats": {
+            "CriticalDamage": 1.8310800071340054
+          },
+          "turnBattleId": 1
+        },
+        {
+          "stats": {
+            "AV": 24.67364987358451
+          },
+          "turnBattleId": 1
+        },
+        {
+          "stats": {
+            "AV": 20.24764871224761
+          },
+          "turnBattleId": 2
+        },
+        {
+          "stats": {
+            "CurrentSpecialSP": 3
+          },
+          "turnBattleId": 3
+        },
+        {
+          "stats": {
+            "HP": 2433.381115924567
+          },
+          "turnBattleId": 3
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 3
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 3
+        },
+        {
+          "stats": {
+            "CurrentSP": 10
+          },
+          "turnBattleId": 3
+        },
+        {
+          "stats": {
+            "AV": 14.508438429329544
+          },
+          "turnBattleId": 3
+        },
+        {
+          "stats": {
+            "CurrentSpecialSP": 4
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "HP": 1700.9507182266098
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "CurrentSP": 10
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "AV": 8.42218690784648
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "CurrentSpecialSP": 5
+          },
+          "turnBattleId": 5
+        },
+        {
+          "stats": {
+            "CriticalDamage": 1.5310800068546087
+          },
+          "turnBattleId": 5
+        },
+        {
+          "stats": {
+            "CriticalDamage": 1.8310800071340054
+          },
+          "turnBattleId": 5
+        },
+        {
+          "stats": {
+            "AV": 0
+          },
+          "turnBattleId": 5
+        },
+        {
+          "stats": {
+            "AV": 0
+          },
+          "turnBattleId": 5
+        },
+        {
+          "stats": {
+            "CurrentSpecialSP": 0
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "CurrentSpecialSP": 6
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "CurrentSpecialSP": 7
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "HP": 360.11161286733113
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "HP": 2061.062331093941
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "Speed": 160.60000004060566
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "AV": 62.26650060620159
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "AV": 0
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "Speed": 177.5600000564009
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "AV": 0
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "Speed": 190.28000006824732
+          },
+          "turnBattleId": 7
+        },
+        {
+          "stats": {
+            "CurrentSpecialSP": 8
+          },
+          "turnBattleId": 7
+        },
+        {
+          "stats": {
+            "CriticalDamage": 1.5310800068546087
+          },
+          "turnBattleId": 7
+        },
+        {
+          "stats": {
+            "CriticalDamage": 1.8310800071340054
+          },
+          "turnBattleId": 7
+        },
+        {
+          "stats": {
+            "CriticalDamage": 2.370177610544488
+          },
+          "turnBattleId": 7
+        },
+        {
+          "stats": {
+            "AV": 0
+          },
+          "turnBattleId": 7
+        },
+        {
+          "stats": {
+            "CurrentSpecialSP": 0
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "CurrentSpecialSP": 9
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "CurrentSpecialSP": 10
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "HP": 216.06696758628823
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "HP": 2277.129298680229
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "AV": 52.55413073580712
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "AV": 63.099444708786905
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "Speed": 158.48000003863126
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "AV": 68.60592753859237
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "Speed": 145.76000002678484
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "AV": 68.60592753859237
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "CurrentSpecialSP": 11
+          },
+          "turnBattleId": 9
+        },
+        {
+          "stats": {
+            "CriticalDamage": 2.070177610265091
+          },
+          "turnBattleId": 9
+        },
+        {
+          "stats": {
+            "CriticalDamage": 2.370177610544488
+          },
+          "turnBattleId": 9
+        },
+        {
+          "stats": {
+            "AV": 0
+          },
+          "turnBattleId": 9
+        },
+        {
+          "stats": {
+            "AV": 0
+          },
+          "turnBattleId": 9
+        },
+        {
+          "stats": {
+            "CurrentSpecialSP": 0
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "CurrentSpecialSP": 12
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "HP": 129.64018047135323
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "HP": 2406.7694791515823
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "Speed": 177.5600000564009
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "AV": 56.31899074651301
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "CurrentSpecialSP": 4294967284
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "CriticalDamage": 2.870177611010149
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "CurrentSpecialSP": 0
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "MaxHP": 9950.33998089796
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "HP": 6839.387270776555
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "CurrentSpecialSP": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "HP": 1990.067998032784
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "HP": 8829.455268809339
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentSP": 10
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentSP": 10
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentSP": 10
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "HP": 1990.067998032784
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "HP": 9950.33998089796
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentSpecialSP": 0
+          },
+          "turnBattleId": 12
+        },
+        {
+          "stats": {
+            "HP": 1990.067998032784
+          },
+          "turnBattleId": 12
+        },
+        {
+          "stats": {
+            "HP": 9950.33998089796
+          },
+          "turnBattleId": 12
+        },
+        {
+          "stats": {
+            "CurrentSpecialSP": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "HP": 1990.067998032784
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "HP": 9950.33998089796
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "CurrentSpecialSP": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "HP": 1990.067998032784
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "HP": 9950.33998089796
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "HP": 9584.981991596753
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "CurrentSP": 5
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "HP": 9219.624002295546
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "CurrentSP": 5
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "HP": 8854.26601299434
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "CurrentSP": 5
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "HP": 8488.908023693133
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "CurrentSP": 5
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "HP": 8123.550034391927
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "CurrentSP": 5
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "HP": 7758.19204509072
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "CurrentSP": 5
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "HP": 7392.8340557895135
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "CurrentSP": 5
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "HP": 7027.476066488307
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "CurrentSP": 5
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "HP": 5864.973373200279
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "CurrentSP": 10
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "CurrentSpecialSP": 0
+          },
+          "turnBattleId": 15
+        },
+        {
+          "stats": {
+            "HP": 1990.067998032784
+          },
+          "turnBattleId": 15
+        },
+        {
+          "stats": {
+            "HP": 7855.041371233063
+          },
+          "turnBattleId": 15
+        },
+        {
+          "stats": {
+            "CurrentSpecialSP": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "HP": 1990.067998032784
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "HP": 9845.109369265847
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "CurrentSP": 10
+          },
+          "turnBattleId": 16
+        }
+      ]
+    }
+  },
+  "enemyDetail": {
+    "100013": {
+      "id": 4033010,
+      "isDie": true,
+      "killer_uid": 1408,
+      "positionIndex": 0,
+      "waveIndex": 1,
+      "name": "{RUBY_B#あんこく}暗黒{RUBY_E#}の{RUBY_B#しお}潮{RUBY_E#}の{RUBY_B#まじゅう}魔獣{RUBY_E#}",
+      "maxHP": 1270934.396935166,
+      "level": 95,
+      "stats": {
+        "CurrentSP": 0,
+        "CurrentStance": 29.999999878928065,
+        "HP": 0,
+        "Shield": 0,
+        "MaxShield": 0,
+        "AV": 57.04506159527227,
+        "CurrentSpecialSP": 0
+      },
+      "statsHistory": [
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentStance": 420
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "HP": 1257744.5952659447
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AV": 19.944718265905976
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "HP": 1257033.2225642018
+          },
+          "turnBattleId": 1
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 1
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 1
+        },
+        {
+          "stats": {
+            "CurrentSP": 20
+          },
+          "turnBattleId": 1
+        },
+        {
+          "stats": {
+            "HP": 1255362.2459718909
+          },
+          "turnBattleId": 1
+        },
+        {
+          "stats": {
+            "CurrentStance": 374.99999998603016
+          },
+          "turnBattleId": 1
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 1
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 1
+        },
+        {
+          "stats": {
+            "CurrentSP": 5
+          },
+          "turnBattleId": 1
+        },
+        {
+          "stats": {
+            "AV": 10.165211444254965
+          },
+          "turnBattleId": 1
+        },
+        {
+          "stats": {
+            "AV": 5.739210282918066
+          },
+          "turnBattleId": 2
+        },
+        {
+          "stats": {
+            "AV": 0
+          },
+          "turnBattleId": 3
+        },
+        {
+          "stats": {
+            "HP": 1233466.6719493635
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "CurrentSP": 10
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "CurrentSP": 10
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "CurrentSP": 10
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "CurrentSP": 10
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "CurrentSP": 10
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "CurrentSP": 10
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "AV": 63.13131311675534
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "AV": 57.04506159527227
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "AV": 57.04506159527227
+          },
+          "turnBattleId": 5
+        },
+        {
+          "stats": {
+            "HP": 1204049.0780674778
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "CurrentStance": 284.9999999580905
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "HP": 1182476.1758856017
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "AV": 57.04506159527227
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "AV": 57.04506159527227
+          },
+          "turnBattleId": 7
+        },
+        {
+          "stats": {
+            "HP": 1126595.1912351674
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "CurrentStance": 194.9999999301508
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "HP": 988487.3727858218
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "HP": 941405.8385097953
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "AV": 57.04506159527227
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "AV": 57.04506159527227
+          },
+          "turnBattleId": 9
+        },
+        {
+          "stats": {
+            "HP": 742477.5256205874
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "CurrentStance": 104.99999990221113
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "HP": 596596.7628228182
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "HP": 549515.2285467917
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "AV": 57.04506159527227
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "HP": 482931.7183493399
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentStance": 89.99999989755452
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "HP": 416348.2081518881
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentStance": 74.9999998928979
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "HP": 83430.65744021768
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentStance": 29.999999878928065
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "HP": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentSpecialSP": 0
+          },
+          "turnBattleId": 11
+        }
+      ]
+    },
+    "100015": {
+      "id": 4033020,
+      "isDie": true,
+      "killer_uid": 1408,
+      "positionIndex": 1,
+      "waveIndex": 1,
+      "name": "{RUBY_B#あんこく}暗黒{RUBY_E#}の{RUBY_B#しお}潮{RUBY_E#}の{RUBY_B#とうしょう}闘将{RUBY_E#}",
+      "maxHP": 1634058.5103452136,
+      "level": 95,
+      "stats": {
+        "CurrentSP": 0,
+        "CurrentStance": 29.999999878928065,
+        "HP": 0,
+        "Shield": 0,
+        "MaxShield": 0,
+        "AV": 45.56664102943614,
+        "CurrentSpecialSP": 0
+      },
+      "statsHistory": [
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "CurrentStance": 420
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "HP": 1620868.7086759922
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AV": 14.20550798298791
+          },
+          "turnBattleId": 0
+        },
+        {
+          "stats": {
+            "AV": 4.426001161336899
+          },
+          "turnBattleId": 1
+        },
+        {
+          "stats": {
+            "AV": 0
+          },
+          "turnBattleId": 2
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 3
+        },
+        {
+          "stats": {
+            "CurrentSP": 10
+          },
+          "turnBattleId": 3
+        },
+        {
+          "stats": {
+            "CurrentSP": 10
+          },
+          "turnBattleId": 3
+        },
+        {
+          "stats": {
+            "AV": 57.39210283383727
+          },
+          "turnBattleId": 3
+        },
+        {
+          "stats": {
+            "AV": 51.652892550919205
+          },
+          "turnBattleId": 3
+        },
+        {
+          "stats": {
+            "AV": 45.56664102943614
+          },
+          "turnBattleId": 4
+        },
+        {
+          "stats": {
+            "AV": 45.56664102943614
+          },
+          "turnBattleId": 5
+        },
+        {
+          "stats": {
+            "HP": 1587555.2839120238
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "CurrentStance": 374.99999998603016
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "HP": 1526480.6718490568
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "AV": 45.56664102943614
+          },
+          "turnBattleId": 6
+        },
+        {
+          "stats": {
+            "AV": 45.56664102943614
+          },
+          "turnBattleId": 7
+        },
+        {
+          "stats": {
+            "HP": 1504128.277985414
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "CurrentStance": 329.9999999720603
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "HP": 1366020.4595360684
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "AV": 45.56664102943614
+          },
+          "turnBattleId": 8
+        },
+        {
+          "stats": {
+            "AV": 45.56664102943614
+          },
+          "turnBattleId": 9
+        },
+        {
+          "stats": {
+            "HP": 1286449.134368035
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "CurrentStance": 284.9999999580905
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "HP": 1140568.3715702659
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "AV": 45.56664102943614
+          },
+          "turnBattleId": 10
+        },
+        {
+          "stats": {
+            "HP": 1073984.861372814
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentStance": 269.99999995343387
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "HP": 1056780.6095555252
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentStance": 254.99999994877726
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "HP": 990197.0993580734
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentStance": 239.99999994412065
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "HP": 923613.5891606216
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentStance": 224.99999993946403
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "HP": 857030.0789631698
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentStance": 209.99999993480742
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "HP": 790446.568765718
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentStance": 194.9999999301508
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "HP": 723863.0585682662
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentStance": 179.9999999254942
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "HP": 657279.5483708144
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentStance": 164.99999992083758
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "HP": 590696.0381733626
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentStance": 149.99999991618097
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "HP": 524112.5279759108
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentStance": 134.99999991152436
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "HP": 457529.017778459
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentStance": 119.99999990686774
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "HP": 390945.5075810072
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentStance": 104.99999990221113
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "HP": 324361.9973835554
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentStance": 89.99999989755452
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "HP": 307157.7455662666
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentStance": 74.9999998928979
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "HP": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentStance": 29.999999878928065
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "HP": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentSpecialSP": 0
+          },
+          "turnBattleId": 11
+        }
+      ]
+    },
+    "100030": {
+      "id": 803401004,
+      "isDie": true,
+      "killer_uid": 1408,
+      "positionIndex": 2,
+      "waveIndex": 1,
+      "name": "「{RUBY_B#じゅう}十{RUBY_E#}の{RUBY_B#せきしん}石心{RUBY_E#}」{RUBY_B#はくぎ}博戯{RUBY_E#}の{RUBY_B#さきんせき}砂金石{RUBY_E#}",
+      "maxHP": 2360306.737503494,
+      "level": 95,
+      "stats": {
+        "CurrentSP": 0,
+        "HP": 0,
+        "CurrentStance": 0,
+        "Shield": 0,
+        "MaxShield": 0,
+        "AV": 15.78282829374075,
+        "CurrentSpecialSP": 0
+      },
+      "statsHistory": [
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "HP": 2090375.8930971124
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "CurrentStance": 359.9999999720603
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "HP": 2043294.358821086
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "AV": 43.59930013306439
+          },
+          "turnBattleId": 11
+        },
+        {
+          "stats": {
+            "HP": 1942070.292074425
+          },
+          "turnBattleId": 12
+        },
+        {
+          "stats": {
+            "CurrentStance": 319.4999999217689
+          },
+          "turnBattleId": 12
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 12
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 12
+        },
+        {
+          "stats": {
+            "HP": 1881042.2171780562
+          },
+          "turnBattleId": 12
+        },
+        {
+          "stats": {
+            "CurrentStance": 224.99999980442226
+          },
+          "turnBattleId": 12
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 12
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 12
+        },
+        {
+          "stats": {
+            "HP": 1833960.6829020297
+          },
+          "turnBattleId": 12
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 12
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 12
+        },
+        {
+          "stats": {
+            "AV": 24.067287181969732
+          },
+          "turnBattleId": 12
+        },
+        {
+          "stats": {
+            "HP": 1818267.7493593378
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "CurrentStance": 209.99999979976565
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "HP": 1757533.3093113417
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "CurrentStance": 194.99999979510903
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "HP": 1696798.8692633456
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "CurrentStance": 179.99999979045242
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "HP": 1681105.9357206537
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "CurrentStance": 164.9999997857958
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "HP": 1665413.0021779619
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "CurrentStance": 149.9999997811392
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "HP": 1604678.5621299658
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "CurrentStance": 134.99999977648258
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "HP": 1543944.1220819696
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "CurrentStance": 119.99999977182597
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "HP": 1528251.1885392778
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "CurrentStance": 104.99999976716936
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "HP": 1467516.7484912816
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "CurrentStance": 89.99999976251274
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "HP": 1406782.3084432855
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "CurrentStance": 74.99999975785613
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "HP": 1346047.8683952894
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "CurrentStance": 59.99999975319952
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "HP": 1330354.9348525975
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "CurrentStance": 44.999999748542905
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "HP": 1269620.4948046014
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "CurrentStance": 29.999999743886292
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "HP": 1208886.0547566053
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "CurrentStance": 14.999999739229679
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "HP": 1148151.6147086092
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "CurrentStance": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "HP": 1100580.1915640524
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "HP": 1047076.76382617
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "AV": 15.78282829374075
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "HP": 979594.0526546517
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "HP": 304766.94149808236
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "HP": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "AV": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "CurrentStance": 450
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "HP": 2360306.737503494
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "HP": 2360306.737503494
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "CurrentStance": 450
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "CurrentStance": 450
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "HP": 2247835.552217629
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "CurrentStance": 409.4999999497086
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "HP": 1985402.7865156843
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "CurrentStance": 314.99999983236194
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "HP": 1933089.97063425
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "AV": 0
+          },
+          "turnBattleId": 13
+        },
+        {
+          "stats": {
+            "HP": 1902679.451128622
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "CurrentSP": 5
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "CurrentSP": 5
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "CurrentSP": 5
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "CurrentSP": 5
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "CurrentSP": 5
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "CurrentSP": 5
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "CurrentSP": 5
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "CurrentSP": 5
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "CurrentSP": 10
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "AV": 63.13131311675534
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "AV": 43.59930013073608
+          },
+          "turnBattleId": 14
+        },
+        {
+          "stats": {
+            "HP": 1790208.2658427565
+          },
+          "turnBattleId": 15
+        },
+        {
+          "stats": {
+            "CurrentStance": 274.4999997820705
+          },
+          "turnBattleId": 15
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 15
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 15
+        },
+        {
+          "stats": {
+            "HP": 1527775.5001408122
+          },
+          "turnBattleId": 15
+        },
+        {
+          "stats": {
+            "CurrentStance": 179.99999966472387
+          },
+          "turnBattleId": 15
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 15
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 15
+        },
+        {
+          "stats": {
+            "HP": 1475462.684259378
+          },
+          "turnBattleId": 15
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 15
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 15
+        },
+        {
+          "stats": {
+            "AV": 24.06728717731312
+          },
+          "turnBattleId": 15
+        },
+        {
+          "stats": {
+            "HP": 1407979.9730878596
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "CurrentStance": 164.99999966006726
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "HP": 1340497.2619163413
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "CurrentStance": 149.99999965541065
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "HP": 1273014.550744823
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "CurrentStance": 134.99999965075403
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "HP": 1205531.8395733046
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "CurrentStance": 119.99999964609742
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "HP": 1188095.2467462625
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "CurrentStance": 104.99999964144081
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "HP": 1120612.5355747442
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "CurrentStance": 89.9999996367842
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "HP": 1053129.824403226
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "CurrentStance": 74.99999963212758
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "HP": 985647.1132317076
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "CurrentStance": 59.99999962747097
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "HP": 918164.4020601893
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "CurrentStance": 44.99999962281436
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "HP": 850681.690888671
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "CurrentStance": 29.999999618157744
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "HP": 783198.9797171527
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "CurrentStance": 14.999999613501132
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "HP": 715716.2685456343
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "CurrentStance": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "HP": 662859.1317128048
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "HP": 609355.7039749224
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "AV": 15.78282829374075
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "HP": 541872.9928034041
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "HP": 524436.399976362
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "HP": 456953.6888048437
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "HP": 389470.9776333254
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "HP": 215105.04950724286
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "HP": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "Shield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "MaxShield": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "CurrentSP": 0
+          },
+          "turnBattleId": 16
+        },
+        {
+          "stats": {
+            "CurrentSpecialSP": 0
+          },
+          "turnBattleId": 16
+        }
+      ]
+    }
+  }
+}

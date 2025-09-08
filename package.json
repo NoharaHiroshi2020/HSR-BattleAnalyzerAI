@@ -1,0 +1,31 @@
+{
+  "name": "hsr-aibattleanalyzer",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 8801",
+    "build": "next build",
+    "start": "next start -p 8801"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@google/genai": "^1.16.0",
+    "@google/generative-ai": "^0.11.4",
+    "@mui/icons-material": "^5.15.14",
+    "@mui/material": "^5.15.14",
+    "axios": "^1.11.0",
+    "dotenv": "^17.2.1",
+    "next": "14.2.5",
+    "openai": "^4.52.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-markdown": "^9.0.1",
+    "remark-gfm": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "@types/react": "^18.2.61",
+    "@types/react-dom": "^18.2.19",
+    "typescript": "^5.4.0"
+  }
+}

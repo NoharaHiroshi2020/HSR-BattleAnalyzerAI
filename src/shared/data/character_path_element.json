@@ -1,0 +1,470 @@
+[
+  {
+    "name": "アナイクス",
+    "path": "知恵",
+    "element": "風",
+    "rarity": "5"
+  },
+  {
+    "name": "ケリュドラ",
+    "path": "調和",
+    "element": "風",
+    "rarity": "5"
+  },
+  {
+    "name": "ファイノン",
+    "path": "壊滅",
+    "element": "物理",
+    "rarity": "5"
+  },
+  {
+    "name": "サンデー",
+    "path": "調和",
+    "element": "虚数",
+    "rarity": "5"
+  },
+  {
+    "name": "ヒアンシー",
+    "path": "記憶",
+    "element": "風",
+    "rarity": "5"
+  },
+  {
+    "name": "キャストリス",
+    "path": "記憶",
+    "element": "量子",
+    "rarity": "5"
+  },
+  {
+    "name": "アグライア",
+    "path": "記憶",
+    "element": "雷",
+    "rarity": "5"
+  },
+  {
+    "name": "マダム・ヘルタ",
+    "path": "知恵",
+    "element": "氷",
+    "rarity": "5"
+  },
+  {
+    "name": "帰忘の流離人",
+    "path": "虚無",
+    "element": "炎",
+    "rarity": "5"
+  },
+  {
+    "name": "乱破",
+    "path": "知恵",
+    "element": "虚数",
+    "rarity": "5"
+  },
+  {
+    "name": "霊砂",
+    "path": "豊穣",
+    "element": "炎",
+    "rarity": "5"
+  },
+  {
+    "name": "飛霄",
+    "path": "巡狩",
+    "element": "風",
+    "rarity": "5"
+  },
+  {
+    "name": "椒丘",
+    "path": "虚無",
+    "element": "炎",
+    "rarity": "5"
+  },
+  {
+    "name": "雲璃",
+    "path": "壊滅",
+    "element": "物理",
+    "rarity": "5"
+  },
+  {
+    "name": "ジェイド",
+    "path": "知恵",
+    "element": "量子",
+    "rarity": "5"
+  },
+  {
+    "name": "ブートヒル",
+    "path": "巡狩",
+    "element": "物理",
+    "rarity": "5"
+  },
+  {
+    "name": "ホタル",
+    "path": "壊滅",
+    "element": "炎",
+    "rarity": "5"
+  },
+  {
+    "name": "ロビン",
+    "path": "調和",
+    "element": "物理",
+    "rarity": "5"
+  },
+  {
+    "name": "開拓者-調和",
+    "path": "調和",
+    "element": "虚数",
+    "rarity": "5"
+  },
+  {
+    "name": "アベンチュリン",
+    "path": "存護",
+    "element": "虚数",
+    "rarity": "5"
+  },
+  {
+    "name": "黄泉",
+    "path": "虚無",
+    "element": "雷",
+    "rarity": "5"
+  },
+  {
+    "name": "花火",
+    "path": "調和",
+    "element": "量子",
+    "rarity": "5"
+  },
+  {
+    "name": "ブラックスワン",
+    "path": "虚無",
+    "element": "風",
+    "rarity": "5"
+  },
+  {
+    "name": "ミーシャ",
+    "path": "壊滅",
+    "element": "氷",
+    "rarity": "4"
+  },
+  {
+    "name": "Dr.レイシオ",
+    "path": "巡狩",
+    "element": "虚数",
+    "rarity": "5"
+  },
+  {
+    "name": "ルアン・メェイ",
+    "path": "調和",
+    "element": "氷",
+    "rarity": "5"
+  },
+  {
+    "name": "雪衣",
+    "path": "壊滅",
+    "element": "量子",
+    "rarity": "4"
+  },
+  {
+    "name": "アルジェンティ",
+    "path": "知恵",
+    "element": "物理",
+    "rarity": "5"
+  },
+  {
+    "name": "フォフォ",
+    "path": "豊穣",
+    "element": "風",
+    "rarity": "5"
+  },
+  {
+    "name": "寒鴉",
+    "path": "調和",
+    "element": "物理",
+    "rarity": "4"
+  },
+  {
+    "name": "トパーズ&カブ",
+    "path": "巡狩",
+    "element": "炎",
+    "rarity": "5"
+  },
+  {
+    "name": "鏡流",
+    "path": "壊滅",
+    "element": "氷",
+    "rarity": "5"
+  },
+  {
+    "name": "桂乃芬",
+    "path": "虚無",
+    "element": "炎",
+    "rarity": "4"
+  },
+  {
+    "name": "丹恒・飲月",
+    "path": "壊滅",
+    "element": "虚数",
+    "rarity": "5"
+  },
+  {
+    "name": "符玄",
+    "path": "存護",
+    "element": "量子",
+    "rarity": "5"
+  },
+  {
+    "name": "リンクス",
+    "path": "豊穣",
+    "element": "量子",
+    "rarity": "4"
+  },
+  {
+    "name": "カフカ",
+    "path": "虚無",
+    "element": "雷",
+    "rarity": "5"
+  },
+  {
+    "name": "刃",
+    "path": "壊滅",
+    "element": "風",
+    "rarity": "5"
+  },
+  {
+    "name": "ルカ",
+    "path": "虚無",
+    "element": "物理",
+    "rarity": "4"
+  },
+  {
+    "name": "羅刹",
+    "path": "豊穣",
+    "element": "虚数",
+    "rarity": "5"
+  },
+  {
+    "name": "銀狼",
+    "path": "虚無",
+    "element": "量子",
+    "rarity": "5"
+  },
+  {
+    "name": "御空",
+    "path": "調和",
+    "element": "虚数",
+    "rarity": "4"
+  },
+  {
+    "name": "景元",
+    "path": "知恵",
+    "element": "雷",
+    "rarity": "5"
+  },
+  {
+    "name": "ゼーレ",
+    "path": "巡狩",
+    "element": "量子",
+    "rarity": "5"
+  },
+  {
+    "name": "白露",
+    "path": "豊穣",
+    "element": "雷",
+    "rarity": "5"
+  },
+  {
+    "name": "彦卿",
+    "path": "巡狩",
+    "element": "氷",
+    "rarity": "5"
+  },
+  {
+    "name": "クラーラ",
+    "path": "壊滅",
+    "element": "物理",
+    "rarity": "5"
+  },
+  {
+    "name": "ジェパード",
+    "path": "存護",
+    "element": "氷",
+    "rarity": "5"
+  },
+  {
+    "name": "ブローニャ",
+    "path": "調和",
+    "element": "風",
+    "rarity": "5"
+  },
+  {
+    "name": "ヴェルト",
+    "path": "虚無",
+    "element": "虚数",
+    "rarity": "5"
+  },
+  {
+    "name": "姫子",
+    "path": "知恵",
+    "element": "炎",
+    "rarity": "5"
+  },
+  {
+    "name": "開拓者-存護",
+    "path": "存護",
+    "element": "炎",
+    "rarity": "5"
+  },
+  {
+    "name": "開拓者-壊滅",
+    "path": "壊滅",
+    "element": "物理",
+    "rarity": "5"
+  },
+  {
+    "name": "三月なのか",
+    "path": "存護",
+    "element": "氷",
+    "rarity": "4"
+  },
+  {
+    "name": "丹恒",
+    "path": "巡狩",
+    "element": "風",
+    "rarity": "4"
+  },
+  {
+    "name": "丹恒・騰荒",
+    "path": "存護",
+    "element": "物理",
+    "rarity": "5"
+  },
+  {
+    "name": "アーラン",
+    "path": "壊滅",
+    "element": "雷",
+    "rarity": "4"
+  },
+  {
+    "name": "アスター",
+    "path": "調和",
+    "element": "炎",
+    "rarity": "4"
+  },
+  {
+    "name": "ヘルタ",
+    "path": "知恵",
+    "element": "氷",
+    "rarity": "4"
+  },
+  {
+    "name": "セーバル",
+    "path": "知恵",
+    "element": "雷",
+    "rarity": "4"
+  },
+  {
+    "name": "ナターシャ",
+    "path": "豊穣",
+    "element": "物理",
+    "rarity": "4"
+  },
+  {
+    "name": "ペラ",
+    "path": "虚無",
+    "element": "氷",
+    "rarity": "4"
+  },
+  {
+    "name": "サンポ",
+    "path": "虚無",
+    "element": "風",
+    "rarity": "4"
+  },
+  {
+    "name": "フック",
+    "path": "壊滅",
+    "element": "炎",
+    "rarity": "4"
+  },
+  {
+    "name": "青雀",
+    "path": "知恵",
+    "element": "量子",
+    "rarity": "4"
+  },
+  {
+    "name": "停雲",
+    "path": "調和",
+    "element": "雷",
+    "rarity": "4"
+  },
+  {
+    "name": "素裳",
+    "path": "巡狩",
+    "element": "物理",
+    "rarity": "4"
+  },
+  {
+    "name": "ギャラガー",
+    "path": "豊穣",
+    "element": "炎",
+    "rarity": "4"
+  },
+  {
+    "name": "三月なのか-巡狩",
+    "path": "巡狩",
+    "element": "虚数",
+    "rarity": "4"
+  },
+  {
+    "name": "モゼ",
+    "path": "巡狩",
+    "element": "雷",
+    "rarity": "4"
+  },
+  {
+    "name": "セイレンス",
+    "path": "虚無",
+    "element": "物理",
+    "rarity": "5"
+  },
+  {
+    "name": "アーチャー",
+    "path": "巡狩",
+    "element": "量子",
+    "rarity": "5"
+  },
+  {
+    "name": "セイバー",
+    "path": "壊滅",
+    "element": "風",
+    "rarity": "5"
+  },
+  {
+    "name": "サフェル",
+    "path": "虚無",
+    "element": "量子",
+    "rarity": "5"
+  },
+  {
+    "name": "モーディス",
+    "path": "壊滅",
+    "element": "虚数",
+    "rarity": "5"
+  },
+  {
+    "name": "トリビー",
+    "path": "調和",
+    "element": "量子",
+    "rarity": "5"
+  },
+  {
+    "name": "開拓者-記憶",
+    "path": "記憶",
+    "element": "氷",
+    "rarity": "5"
+  },
+  {
+    "name": "長夜月",
+    "path": "記憶",
+    "element": "氷",
+    "rarity": "5"
+  }
+]

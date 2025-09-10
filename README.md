@@ -4,7 +4,7 @@
 
 This tool analyzes battle logs from Honkai: Star Rail and provides evaluations, root cause analysis, and improvement suggestions from the perspective of in-game characters.
 The analysis is handled by two personas: **Pela**, who specializes in a "logical and tactical approach," and **Sparkle**, who excels at a "theatrical and dramatic approach."
-You can choose between GPT-5 and Gemini 2.5 Pro for the analysis. However, due to their different strengths, **GPT-5 mini is recommended for the Pela persona**, and **Gemini 2.5 Pro is recommended for the Sparkle persona**.
+You can choose between GPT-5 and Gemini 2.5 Pro for the analysis. However, due to their different strengths, **GPT-5 is recommended for the Pela persona**, and **Gemini 2.5 Pro is recommended for the Sparkle persona**.
 
 ## Acquiring Battle Logs
 
@@ -15,7 +15,7 @@ Battle logs were obtained using the following community-made tools:
 
 ## Direction of Analysis and Proposals
 
-### Pela - GPT-5 mini
+### Pela - GPT-5
 - Three types of damage statistics (Battle Contribution / DPAV Stats / Peak Firepower Stats)
 - Objective evaluation based on data
 - Analysis of "cause and effect" and the pursuit of "optimization"

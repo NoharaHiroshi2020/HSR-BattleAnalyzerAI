@@ -51,7 +51,7 @@ export const MaterialMenu: React.FC<MaterialMenuProps> = ({
   const theme = useTheme();
   
   // AIモデル名の設定
-  const openaiModel = process.env.NEXT_PUBLIC_OPENAI_MODEL || 'GPT-5-mini';
+  const openaiModel = process.env.NEXT_PUBLIC_OPENAI_MODEL || 'GPT-5';
   const geminiModel = process.env.NEXT_PUBLIC_GEMINI_MODEL || 'Gemini-2.5-Pro';
 
   // 解説者アイコンの設定（後でご指定のパスに差し替え可能）
@@ -72,6 +72,19 @@ export const MaterialMenu: React.FC<MaterialMenuProps> = ({
   const [isAnalyzing, setIsAnalyzing] = useState(false);
   const [analysisResult, setAnalysisResult] = useState<string>(isPreviewMode ? initialContent : '');
   const [payloadData, setPayloadData] = useState<any>(null);
+  // payloadData をセッションに退避・復元
+  useEffect(() => {
+    try {
+      const saved = sessionStorage.getItem('payloadData');
+      if (saved && !payloadData) {
+        const parsed = JSON.parse(saved);
+        if (parsed && parsed.battleData) setPayloadData(parsed);
+      }
+    } catch {}
+    // 初回のみ
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
   const [snackbar, setSnackbar] = useState<{
     open: boolean;
     message: string;
@@ -361,6 +374,7 @@ export const MaterialMenu: React.FC<MaterialMenuProps> = ({
         battleData: battleAnalysisData,
       };
       setPayloadData(payloadData);
+      try { sessionStorage.setItem('payloadData', JSON.stringify(payloadData)); } catch {}
 
       const response = await fetch('/api/analyze', {
         method: 'POST',
@@ -408,12 +422,61 @@ export const MaterialMenu: React.FC<MaterialMenuProps> = ({
 
   // 再分析関数
   const handleReanalyze = async () => {
+    // セッションから復元を試みる
     if (!payloadData) {
-      setSnackbar({
-        open: true,
-        message: 'ペイロードデータがありません',
-        severity: 'error'
-      });
+      try {
+        const saved = sessionStorage.getItem('payloadData');
+        if (saved) {
+          const parsed = JSON.parse(saved);
+          if (parsed && parsed.battleData) setPayloadData(parsed);
+        }
+      } catch {}
+    }
+
+    // 可能なら最新のファイル内容から battleAnalysisData を再生成（キャラや設定変更を反映）
+    let battleDataForRequest: any = (payloadData || JSON.parse(sessionStorage.getItem('payloadData') || '{}')).battleData;
+    try {
+      if (fileContent) {
+        const battleEndData = {
+          enemies: (fileContent.enemies || []).map((item: any) => ({ id: item.avatarId, name: `Enemy_${item.avatarId}` })),
+          avatars: (fileContent.avatars || []).map((item: any) => ({ id: item.avatarId, name: `Avatar_${item.avatarId}` })),
+          turn_history: [],
+          av_history: [],
+          turn_count: fileContent.turnHistory.length,
+          total_damage: fileContent.totalDamage,
+          action_value: fileContent.totalAV,
+          stage_id: 1,
+        };
+        const rebuilt = await onBattleEndService({
+          battleEnd: battleEndData,
+          turnHistory: fileContent.turnHistory,
+          skillHistory: fileContent.skillHistory,
+          avatarDetail: fileContent.avatarDetail,
+          enemyDetail: fileContent.enemyDetail,
+          cycleInfo: {
+            maxCycle: fileContent.maxCycle,
+            maxWave: fileContent.maxWave,
+            cycleIndex: fileContent.cycleIndex,
+            waveIndex: fileContent.waveIndex,
+            characterNameMap: fileContent.characterNameMap,
+          },
+          autoAnalyzeBattle: true,
+          gptAnalysisLoading: false,
+          geminiAnalysisLoading: false,
+        });
+        battleDataForRequest = rebuilt;
+        const updatedPayload = {
+          timestamp: new Date().toISOString().replace(/[:.]/g, '-'),
+          selectedAnalyst,
+          battleData: rebuilt,
+        };
+        setPayloadData(updatedPayload);
+        try { sessionStorage.setItem('payloadData', JSON.stringify(updatedPayload)); } catch {}
+      }
+    } catch {}
+
+    if (!battleDataForRequest) {
+      setSnackbar({ open: true, message: 'ペイロードデータがありません', severity: 'error' });
       return;
     }
     if (selectedAnalyst === 'auto') {
@@ -443,7 +506,7 @@ export const MaterialMenu: React.FC<MaterialMenuProps> = ({
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
-          battleData: payloadData.battleData,
+          battleData: battleDataForRequest,
           selectedAI,
           selectedAnalyst,
           geminiTemperature,
